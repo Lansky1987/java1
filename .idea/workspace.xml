@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="182a754a-316f-4cfe-8ec7-2ae071c1e0da" name="Default Changelist" comment="еще один commit" />
+    <list default="true" id="182a754a-316f-4cfe-8ec7-2ae071c1e0da" name="Default Changelist" comment="еще  commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589295891548</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="еще  commit">
+      <created>1589296268889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589296268889</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,12 +93,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <MESSAGE value="еще один commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="еще один commit" />
+    <MESSAGE value="еще  commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="еще  commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1589296172299">
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1589296384848">
       <screen x="0" y="22" width="1280" height="710" />
     </state>
-    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.22.1280.710@0.22.1280.710" timestamp="1589296172299" />
+    <state x="240" y="117" key="Vcs.Push.Dialog.v2/0.22.1280.710@0.22.1280.710" timestamp="1589296384848" />
+    <state x="34" y="22" key="new project wizard" timestamp="1589321892541">
+      <screen x="0" y="22" width="1280" height="710" />
+    </state>
+    <state x="34" y="22" key="new project wizard/0.22.1280.710@0.22.1280.710" timestamp="1589321892541" />
   </component>
 </project>
